@@ -1,0 +1,21 @@
+<resources>
+    <string name="question">What Country does this flag belongs to?</string>
+    <string name="que_count">0/10</string>
+    <string name="country_flag">Country Flag</string>
+    <string name="option_one">option_one</string>
+    <string name="option_two">option_two</string>
+    <string name="option_three">option_three</string>
+    <string name="option_four">option_four</string>
+    <string name="submit">Submit</string>
+    <string name="APP_NAME">Quiz App</string>
+    <string name="welcome">Welcome</string>
+    <string name="name_prompt">Please enter your Name</string>
+    <string name="name_hint">Name</string>
+    <string name="start">Start</string>
+    <string name="result_txt">Result</string>
+    <string name="result_image">Result Image</string>
+    <string name="congrats">Hey, Congratulations!</string>
+    <string name="username">Username</string>
+    <string name="score">Your Score is 9 out of 10</string>
+    <string name="finish">FINISH</string>
+</resources>
